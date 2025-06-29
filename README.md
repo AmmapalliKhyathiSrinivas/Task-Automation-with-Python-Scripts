@@ -8,8 +8,9 @@ This repository contains a collection of beginner-friendly Python scripts to aut
 
 ```
 task-automation-scripts/
-├── extract_emails.py     # Extracts email addresses from a text file
-└── README.md             # Project overview and instructions
+├── extract_emails.py                # Extracts email addresses from a text file
+└── Sample Console Interaction       #Sample Input and Output
+└── README.md                        # Project overview and instructions
 ```
 
 ---
