@@ -1,0 +1,30 @@
+##Sample Console Interaction
+
+📬 Let's extract email addresses from a .txt file!
+
+Enter the path to your .txt file: sample_input.txt
+Where should we save the found emails? (output.txt): extracted_emails.txt
+ Found and saved 5 email(s) to 'extracted_emails.txt'.
+
+
+##Sample Input_Example:
+
+Namaste Team,
+
+For support, email us at help@bharatcompany.in or reach out to raj.kapoor@startup.in.
+
+If you have media queries, ping pr@bharatcompany.in.
+
+Our HR contact: hr.talent@jobswala.com
+Backup contact: meena.rao.22@gmail.com
+
+Shukriya!
+
+
+##Output:Emails
+
+help@bharatcompany.in
+raj.kapoor@startup.in
+pr@bharatcompany.in
+hr.talent@jobswala.com
+meena.rao.22@gmail.com
